@@ -1,0 +1,14 @@
+{
+  "name": "discordbotbase",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+  },
+  "author": "Scoffgard",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "dependencies": {
+    "discord.js": "^12.4.1",
+    "fs": "0.0.1-security"
+  }
+}
