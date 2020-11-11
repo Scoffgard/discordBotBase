@@ -6,7 +6,7 @@
   "scripts": {
   },
   "author": "Scoffgard",
-  "license": "SEE LICENSE IN LICENSE.md",
+  "license": "SEE LICENSE IN LICENSE",
   "dependencies": {
     "discord.js": "^12.4.1",
     "fs": "0.0.1-security"
